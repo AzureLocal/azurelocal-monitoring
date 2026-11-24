@@ -10,7 +10,7 @@ assignees: ''
 
 | Field | Value |
 |-------|-------|
-| **Azure Local version** | e.g. 23H2, 22H2 |
+| **Azure Local version** | e.g. 12.2611 (2611) |
 | **PowerShell version** | \\System.Management.Automation.PSVersionHashTable.PSVersion |
 
 ## What happened?
